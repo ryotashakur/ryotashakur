@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryotashakur
-- 👀 I’m interested in web development, artificial intelligence, cybersecurity, IOT and network administration
+- 👀 I’m interested in web development, IoT,Devops and Cloud Computing
 - 🌱 I’m currently learning ... telecommuncation and network engineering
 - 💞️ I’m looking to collaborate on ...a project in web development
 - 📫 How to reach me ...
